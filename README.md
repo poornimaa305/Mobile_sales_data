@@ -38,4 +38,4 @@ An interactive Power BI dashboard built to analyze mobile sales performance, pay
 ---
 
 ## Author
-Poornima
+Poornima A
